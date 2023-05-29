@@ -82,7 +82,7 @@ Resolve the deadlock using the following techniques:
 also has two sauce bowls. The user would require access to one of the two sauce
 bowls to eat, and can access any one of them at any point of time.
 
-GITHUB LINK:
+DRIVE LINK: https://drive.google.com/drive/folders/185CCJ043atRKAHPalpYrnslkvArSARlJ?usp=share_link
 
 5.) INTERPROCESS COMMUNICATION
 
@@ -106,4 +106,4 @@ bility if the protocol itself guarantees it. Print the amount of time required t
 
 finish receiving the acknowledgment of all 50 strings in the three cases.
 
-GITHUB LINK:
+DRIVE LINK: https://drive.google.com/drive/folders/1lmwu0Z1ti9wvtHVismbxeCtbbfmH62CX?usp=share_link
